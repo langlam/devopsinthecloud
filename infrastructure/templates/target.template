@@ -43,7 +43,7 @@
 	"PrivateBucket" : {
       "Description" : "S3 bucket for storing credentials",
       "Type" : "String",
-      "Default" : ""eStore-ditcllcreds",
+      "Default" : "eStore-ditcllcreds",
       "ConstraintDescription" : "Must be a valid S3 Bucket"
     },
 
